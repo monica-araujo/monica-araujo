@@ -1,4 +1,6 @@
-### Welcome 👋
+### Hi There 👋
+
+Meu nome é Mônica Araujo, sou estudante do 4º período de Engenharia de Computação e estudande do curso de Web Full Stack na Labenu, atualmente no 3 módulo do curso! Entre em contato comigo através do e-mail: contactmonicaaraujo@gmail.com 
 
 <!--
 **monica-araujo/monica-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
