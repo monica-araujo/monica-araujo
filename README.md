@@ -1,7 +1,7 @@
 
 
 ### Olá 👋
-Sou Mônica Araujo, estudante do 4º período de Engenharia de Computação e também do curso Web Full Stack na Labenu, atualmente no 3 módulo do curso! Entre em contato comigo atravéss deste e-mail: contactmonicaaraujo@gmail.com
+Sou Mônica Araujo, estudante do 4º período de Engenharia de Computação e também do curso Web Full Stack na Labenu, atualmente no 3 módulo do curso! Entre em contato comigo através deste e-mail contactmonicaaraujo@gmail.com e vamos bater um papo!
 
 - 🔭 Estou constantemente desenvolvendo projetos frontend
 - 🌱 Estou constantemente aprenderndo React
