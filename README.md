@@ -5,7 +5,7 @@ Sou Mônica Araujo, estudante do 4º período de Engenharia de Computação e ta
 
 - 🔭 Estou constantemente desenvolvendo projetos frontend
 - 🌱 Estou constantemente aprenderndo React
-- 🤝 Estou buscando me aprofundar e desernvolver projetos backend
+- 🤝 Estou buscando me aprofundar e desenvolver projetos backend
 
 #### Tecnologias utilizadas
 
