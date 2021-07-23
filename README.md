@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+
 
 ### Olá 👋
 Sou Mônica Araujo, estudante do 4º período de Engenharia de Computação e também do curso Web Full Stack na Labenu, atualmente no 3 módulo do curso! Entre em contato comigo atravéss deste e-mail: contactmonicaaraujo@gmail.com
