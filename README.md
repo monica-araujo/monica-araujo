@@ -3,9 +3,9 @@
 ### Olá 👋
 Sou Mônica Araujo, estudante do 4º período de Engenharia de Computação e também do curso Web Full Stack na Labenu, atualmente no 3 módulo do curso! Entre em contato comigo atravéss deste e-mail: contactmonicaaraujo@gmail.com
 
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning React
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+- 🔭 Estou constantemente desenvolvendo projetos frontend
+- 🌱 Estou constantemente aprenderndo React
+- 🤝 Estou buscando me aprofundar e desernvolver projetos backend
 
 #### Tecnologias utilizadas
 
