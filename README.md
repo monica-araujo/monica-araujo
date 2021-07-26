@@ -1,7 +1,7 @@
 
 
 ### Olá 👋
-Sou Mônica Araujo, estudante do 4º período de Engenharia de Computação e também do bootcamp de programação Web Full Stack na Labenu, atualmente no 3 módulo! Entre em contato comigo através deste e-mail contactmonicaaraujo@gmail.com e vamos bater um papo!
+Sou Mônica Araujo, estudante do 4º período de Engenharia de Computação e também do bootcamp de programação Web Full Stack na Labenu, atualmente no 3 módulo! Vou adorar te conhecer e saber como posso colaborar com sua empresa e projetos a serem desenvolvidos! 
 
 - 🔭 Estou constantemente desenvolvendo projetos frontend
 - 🌱 Estou constantemente aprenderndo React
