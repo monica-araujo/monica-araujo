@@ -9,6 +9,7 @@ Sou Mônica Araujo, estudante do 4º período de Engenharia de Computação e ta
 - 🌱 Estou constantemente aprendendo React
 - 🤝 Estou buscando ajudar sua empresa através do meu código e aprimorar meu conhecimento em minha área de atuação
 - 🤔 Estou buscando me aprofundar e desenvolver projetos backend 
+- 📫 Entre em contato comigo através do e-mail: contactmonicaaraujo@gmail.com
 
 
 
@@ -17,6 +18,7 @@ Sou Mônica Araujo, estudante do 4º período de Engenharia de Computação e ta
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
 
 
 
