@@ -9,7 +9,9 @@ Sou Mônica Araujo, estudante do 4º período de Engenharia de Computação e ta
 - 🌱 Estou constantemente aprendendo React
 - 🤝 Estou buscando ajudar sua empresa através do meu código e aprimorar meu conhecimento em minha área de atuação
 - 🤔 Estou buscando me aprofundar e desenvolver projetos backend 
+- 💤 Boring fact: Sou vegana e luto pela causa animal 
 - 📫 Entre em contato comigo através do e-mail: contactmonicaaraujo@gmail.com
+- 💬 Me pergunte sobre qualquer coisa! Vou adorar ajudar 
 
 
 
