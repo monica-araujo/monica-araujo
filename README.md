@@ -1,7 +1,7 @@
 
 
 ### Olá 👋
-Sou Mônica Araujo, estudante do 4º período de Engenharia de Computação e formada no bootcamp de programação Web Full Stack da escola Labenu! Vou adorar te conhecer e saber como posso colaborar com sua empresa e projetos a serem desenvolvidos! 
+Sou Mônica Araujo, estudante do 6º período de Engenharia de Computação e formada no bootcamp de programação Web Full Stack da escola Labenu! Vou adorar te conhecer e saber como posso colaborar com sua empresa e projetos a serem desenvolvidos! 
 
 
 
